@@ -28,4 +28,4 @@
 
 <img src="https://github.com/LucasDev86/bdworld/blob/main/gui/bmi11.PNG" width="200"/>  
 
-
+<img src="ori.jpeg"/>
